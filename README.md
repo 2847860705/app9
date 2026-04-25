@@ -1,3 +1,5 @@
+**Scoreboard in sports**
+
 More than a scoreboard — track, export, and customize
 
 A powerful and flexible scoreboard app for games, training, and casual play
